@@ -22,9 +22,10 @@
 
 ### Editores de código
 
-	Atom https://atom.io/    
-	Sublime Text  https://www.sublimetext.com/   
-	Visual Stucio Code. https://code.visualstudio.com/
+	[Sublime Text]  https://www.sublimetext.com/   
+	[Visual Stucio Code] https://code.visualstudio.com/
+	[Atom] https://atom.io/
+
 
 ## Sintáxis
 
