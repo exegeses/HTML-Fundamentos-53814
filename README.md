@@ -1,10 +1,10 @@
 <img src="imagenes/html5-css3.jpg">
 
-# Curso de HTML 5 Fundamentos código 47624
+# Curso de HTML 5 Fundamentos código 53814
 
 >Curso HTML 5 Fundamentos |  
->Sábados 15hs a 18hs |  
->Código 47624 |  
+>Lunes, Martes y Miércoles 10hs a 13hs |  
+>Código 53814 |  
 >sensei: Marcos Pinardi |  
 
 
