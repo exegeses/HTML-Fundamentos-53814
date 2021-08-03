@@ -23,7 +23,7 @@
 ### Editores de código
 
 Sublime Text: <https://www.sublimetext.com/>   
-Visual Studio Code: <https://code.visualstudio.com/>
+Visual Studio Code: <https://code.visualstudio.com/>    
 Atom: <https://atom.io/>
 
 
