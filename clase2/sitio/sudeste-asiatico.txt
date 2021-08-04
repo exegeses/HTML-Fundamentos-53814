@@ -37,4 +37,5 @@ Malasia es un país ubicado en el sureste asiático que consta de trece estados 
 Capital: Kuala Lumpur
 Moneda: Ringgit
 Rey: Abdul Halim
+Idiama oficial: Malayo
 Gobierno: Monarquía electiva, Monarquía constitucional, Democracia, Parlamentarismo
