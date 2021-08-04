@@ -1,0 +1,20 @@
+
+body{
+    background-color: rgb(216, 216, 216);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    height: 160px;
+    background-color: #F8B997;
+}
+nav{
+    height: 60px;
+    background-color: #26211F;
+}
+main{
+    height: 550px;
+}
+footer{
+    height: 160px;
+    background-color: #26211F;
+}

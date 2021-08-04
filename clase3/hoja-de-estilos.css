@@ -1,0 +1,13 @@
+
+body {
+    background-color: rgb(216, 216, 216);
+    font-family: 'Trebuchet MS',
+     'Lucida Sans Unicode', 'Lucida Grande', 
+     'Lucida Sans', Arial, sans-serif;
+ }
+    p{
+        background-color: white;
+        width: 800px;
+        margin: 25px; /* separación hacia fuera */
+        padding: 20px; /* separación hacia dentro */
+    }
