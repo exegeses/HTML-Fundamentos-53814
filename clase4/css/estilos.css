@@ -45,6 +45,37 @@ main{
         padding: 15px;
     }
 
+    form{
+        margin-bottom: 50px;
+    }
+        input, textarea{
+            background-color: #f9d5c1;
+            width: 500px;
+            padding: 20px;
+            margin-bottom: 16px;
+            border: #c68b6b solid 1px;
+            color: #723d20;
+            font-size: 20px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            border-radius: 8px;
+        }
+        textarea{
+            height: 200px;
+        }
+        button{
+            background-color: #723d20;
+            border: #c68b6b solid 1px;
+            color: #f9d5c1;
+            width: 300px;
+            padding: 20px;
+            font-size: 20px;
+            border-radius: 8px;
+        }
+        button:hover{
+            background-color: #7c4a2f;
+            cursor: pointer;
+        }
+
 footer{
     height: 160px;
     background-color: #26211F;
