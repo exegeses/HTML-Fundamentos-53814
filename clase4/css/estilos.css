@@ -35,11 +35,12 @@ nav{
 main{
     width: 1100px;
     margin: auto; /* centrar caja */
-    height: 550px;
+    min-height: 550px;
 }
     article{
         width: 300px;
         display: inline-block;
+        margin: 15px;
         background-color: #fff;
         padding: 15px;
     }
